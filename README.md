@@ -46,9 +46,9 @@ $ pkg install mc
 
 $ git clone https://github.com/adwin-15/Masslooker-2.0
 
-$ cd masslooker-2.0
+$ cd Masslooker-2.0
 
-$ php masslooker.php
+$ php masslooker-2.0.php
 
 
 * Log in Primary Account First Option 
