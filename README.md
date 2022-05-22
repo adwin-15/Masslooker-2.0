@@ -4,7 +4,7 @@
 
 # Description
 
-View up to 10K + stories a day by the trend of 2021 at Instagram - Masslooking (mass story viewing), It will automatically view you following story to engage with them. Try for free!
+View up to 10K + stories a day by the trend of 2022 at Instagram - Masslooking (mass story viewing), It will automatically view you following story to engage with them. Try for free!
 
 For Help [JOIN TELEGRAM](https://t.me/instbit) 😷
 
