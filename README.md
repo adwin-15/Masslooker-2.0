@@ -8,24 +8,54 @@ View up to 10K + stories a day by the trend of 2022 at Instagram - Masslooking (
 
 For Help [JOIN TELEGRAM](https://t.me/instbit) 😷
 
-# How To Use
 
-### Installation 
-```
-git clone https://github.com/adwin-15/Masslooker 2.0.git
-```
-```
-cd Masslooker 2.0
-```
-```
-pkg install nodejs
-```
-```
-npm install instagram-private-api
-```
-```
-node index.js
-```
+# Features
+
+• Views Stories
+
+• Question Answer
+
+• Poll Voting
+
+• Emoji Slider
+
+
+# Uses
+
+• Unlimited real followers
+
+• Unlimited real likes
+
+• Increasing profile visits
+
+• Incredible reach
+
+# Installation
+
+
+MassLooker requires PHP Latest Version o run.
+
+
+Follow These Steps for Installation
+
+$ pkg install php
+
+$ pkg install git
+
+$ pkg install mc
+
+$ git clone https://github.com/adwin-15/Masslooker-2.0
+
+$ cd masslooker-2.0
+
+$ php masslooker.php
+
+
+* Log in Primary Account First Option 
+
+* Second One Slave Account For Scraping 
+
+Enjoy it Free Use 😛
 ---
 # Warnings ⚠
 Copyright (c)2022 adwin-15
